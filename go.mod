@@ -5,7 +5,7 @@ go 1.15
 // replace github.com/inlets/inletsctl => /home/alex/inletsctl
 
 require (
-	github.com/aws/aws-sdk-go v1.27.3 // indirect
+	github.com/aws/aws-sdk-go v1.34.0 // indirect
 	github.com/inlets/cloud-provision/provision v0.0.0-20210707085044-93cc13af558a
 	github.com/sethvargo/go-password v0.2.0
 	k8s.io/api v0.18.3
